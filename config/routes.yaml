@@ -9,3 +9,4 @@ homepage:
 list:
  path: /
  controller: App\Controller\ListController::list
+
